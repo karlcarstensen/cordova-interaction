@@ -19,7 +19,14 @@
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/img \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/index.html \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/js \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/plugins \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/css/index.css \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/img/logo.png \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/js/index.js \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/plugins/org.apache.cordova.camera \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/plugins/org.apache.cordova.camera/www \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/Camera.js \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraConstants.js \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/ant-build/AndroidManifest.xml \

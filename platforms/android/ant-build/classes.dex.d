@@ -6,4 +6,7 @@
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/ant-build/classes/com/frog/cordova/R$string.class \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/ant-build/classes/com/frog/cordova/R$xml.class \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/ant-build/classes/com/frog/cordova/R.class \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/ant-build/classes/org/apache/cordova/camera/CameraLauncher.class \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/ant-build/classes/org/apache/cordova/camera/ExifHelper.class \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/ant-build/classes/org/apache/cordova/camera/FileHelper.class \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/ant-build/dexedLibs/classes-ca97e6e3853026149ab65780b94ead5f.jar \
