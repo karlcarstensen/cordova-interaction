@@ -3,6 +3,9 @@ Colors
 Dark Grey - #53585f
 */
 
+.section {
+  min-height: 100%;
+}
 
 div.btn-group.btn-group-justified {
   padding: 10px;
@@ -17,22 +20,35 @@ div.btn-group.btn-group-justified {
 }
 
 #one {
-  background-color: red;
+  /*background-color: red;*/
+
 }
 
+#logo {
+  width: 100px;
+  height: 114px;
+  background-image: url('img/YP_Logo.png');
+  background-repeat: no-repeat;
+  background-position: center top;
+  position: fixed;
+  top: 0px;
+  left: -5px;
+}
+
+
 #two {
-  background-color: green;
+  /*background-color: green;*/
 }
 
 #three {
-  background-color: gray;
+  /*background-color: gray;*/
 }
 
 #four {
-  background-color: blue;
+  /*background-color: blue;*/
 }
 
 div.col-md-4.box {
-  background-color: #53585f;
+  /*background-color: #53585f;*/
   min-height: 250px;
 }

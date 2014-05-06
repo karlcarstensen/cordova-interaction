@@ -5,6 +5,8 @@
         <meta name="format-detection" content="telephone=no" />
         <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, target-densitydpi=device-dpi" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
         <link rel="stylesheet" type="text/css" href="css/index.css" />
         <link rel="stylesheet" type="text/css" href="css/styles.css" />
         <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css" />
@@ -60,27 +62,52 @@
         <div id="fullpage">
             <div class="section" id="one" data-anchor="one">
                 <div id="logo"></div>
-                <h1>Frame One</h1>
                 <div class="container">
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-md-4 box">Pitch Screen 1</div>
                         <div class="col-md-4 box">Pitch Screen 2</div>
                         <div class="col-md-4 box">Pitch Screen 3</div>
+                    </div> -->
+                </div>
+                <div class="intro-text"><h1>Pleased to meet you.</h1></div>
+            </div>
+
+            <div class="section" id="two" data-anchor="two">
+
+                <div class="two-title">
+                    <a data-toggle="modal" data-target="#myModal">
+                        <img src="img/frame-two-box.jpg" />
+                    </a>
+                </div>
+
+                <!-- Modal -->
+                <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                      </div>
+                      <div class="modal-body">
+                        <img src="img/LookGood_Modal.jpg" alt="">
+                      </div>
                     </div>
+                  </div>
                 </div>
 
             </div>
 
+            <div class="section" id="three" data-anchor="three">
+                <h1>Frame Three</h1>
+            </div>
 
-
-            <div class="section" id="two" data-anchor="two">
+            <div class="section" id="four" data-anchor="four">
+                <h1>Frame Four</h1>
                 <div class="slide"> Slide 1 </div>
                 <div class="slide"> Slide 2 </div>
                 <div class="slide"> Slide 3 </div>
                 <div class="slide"> Slide 4 </div>
             </div>
-            <div class="section" id="three" data-anchor="three"><h1>Frame Three</h1></div>
-            <div class="section" id="four" data-anchor="four"><h1>Frame Four</h1></div>
         </div>
 
 

@@ -17,32 +17,60 @@ div.btn-group.btn-group-justified {
 #one, #two, #three, #four {
   text-align: center;
   color: white;
+  background-color: #ddd;
 }
 
-#one {
-  /*background-color: red;*/
+/* First Screen */
 
+#one {
+  background-image: url('../img/frame-one.jpg');
 }
 
 #logo {
   width: 100px;
   height: 114px;
-  background-image: url('img/YP_Logo.png');
+  background-image: url('../img/YP_Logo.png');
   background-repeat: no-repeat;
   background-position: center top;
   position: fixed;
   top: 0px;
-  left: -5px;
+  left: 10px;
 }
 
+.intro-text {
+  color: #000;
+  text-transform: none;
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+}
+
+/* Second Screen */
 
 #two {
-  /*background-color: green;*/
+  background-image: url('../img/frame-two.jpg');
 }
+.two-title {
+
+}
+
+#myModal {
+
+}
+.modal-header {
+  border: none !important;
+}
+.modal-dialog {
+  width: 95% !important;
+}
+
+/* Third Screen */
 
 #three {
   /*background-color: gray;*/
 }
+
+/* Forth Screen */
 
 #four {
   /*background-color: blue;*/
