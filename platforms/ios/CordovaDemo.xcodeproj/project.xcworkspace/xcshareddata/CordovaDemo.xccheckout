@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EDCFA4C0-B824-4877-8C09-311A705252C3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CordovaDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>788B9061-E3C2-43A3-8FE0-26491822C158</key>
+		<string>https://github.com/karlcarstensen/cordova-interaction.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/CordovaDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>788B9061-E3C2-43A3-8FE0-26491822C158</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/karlcarstensen/cordova-interaction.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>788B9061-E3C2-43A3-8FE0-26491822C158</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>788B9061-E3C2-43A3-8FE0-26491822C158</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cordova-interaction</string>
+		</dict>
+	</array>
+</dict>
+</plist>

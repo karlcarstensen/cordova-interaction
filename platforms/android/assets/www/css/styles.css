@@ -1,0 +1,38 @@
+/*
+Colors
+Dark Grey - #53585f
+*/
+
+
+div.btn-group.btn-group-justified {
+  padding: 10px;
+  position: absolute;
+  top: 0px;
+  z-index: 1;
+}
+
+#one, #two, #three, #four {
+  text-align: center;
+  color: white;
+}
+
+#one {
+  background-color: red;
+}
+
+#two {
+  background-color: green;
+}
+
+#three {
+  background-color: gray;
+}
+
+#four {
+  background-color: blue;
+}
+
+div.col-md-4.box {
+  background-color: #53585f;
+  min-height: 250px;
+}

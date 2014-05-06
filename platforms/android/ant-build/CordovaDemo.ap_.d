@@ -21,8 +21,15 @@
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/js \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/plugins \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/css/index.css \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/css/jquery.fullPage.css \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/css/styles.css \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/img/logo.png \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/js/index.js \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/js/jquery.fullPage.js \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/js/jquery.fullPage.min.js \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/js/vendors \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/js/vendors/jquery.easings.min.js \
+/Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/js/vendors/jquery.slimscroll.min.js \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/plugins/org.apache.cordova.camera \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/plugins/org.apache.cordova.camera/www \
 /Users/karl.carstensen/code/cordova-interaction/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/Camera.js \
